@@ -1,1 +1,1 @@
-# ccp_tablet_w24
+# ccp_mobile_w2
